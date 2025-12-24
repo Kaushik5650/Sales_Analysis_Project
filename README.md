@@ -1,6 +1,6 @@
-# Sales Analysis Project
+# Sales Analysis Project📊
 
-## Overview
+## 🧑‍💻Overview
 This project demonstrates a complete **sales data analysis workflow** using **Python, SQL (SQLite), and Power BI**. The goal is to extract actionable insights from a sales dataset and visualize them interactively.  
 
 The project showcases skills in:
@@ -13,7 +13,7 @@ This project is ideal for students or beginners to show proficiency in **Python 
 
 ---
 
-## Dataset
+## Dataset📉📈
 The dataset used is a sales transaction dataset (`train.csv.zip`) containing:
 
 | Column Name        | Description |
@@ -39,7 +39,7 @@ The dataset used is a sales transaction dataset (`train.csv.zip`) containing:
 
 ---
 
-## Project Workflow
+## Project Workflow💪
 
 ### **Step 1: Data Loading & Cleaning (Python)**
 - Load the dataset from `train.csv.zip` using `pandas`.
