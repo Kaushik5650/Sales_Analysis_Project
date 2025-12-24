@@ -69,8 +69,23 @@ Build interactive dashboards using the provided visuals
 Use slicers to filter by Region, Segment, or Category
 ```
 ---
-📊 Example Visualizations
+## 📊 Power BI Visualizations
 
-├── README.md
-└── .gitignore           
+### 1. Monthly Sales Trend
+
+### 2. Sales by Category
+
+### 3. Sales by Sub-Category
+
+### 4. Top Products
+
+### 5. Region-wise Sales
+
+### 6. Customer Segment Analysis
+
+### 7. Monthly Sales Trend by Category
+
+### 8. Top 10 Products
+
+### 9. Region vs Sales Comparison
 
