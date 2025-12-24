@@ -15,11 +15,6 @@ Project Repo: [Sales_Analysis_Project](https://github.com/kaushik5650/Sales_Anal
 The dataset used in this project can be found in:
 [Download Dataset](data/raw/train.csv)
 
-
-
-- Place the dataset in the `data/raw/` directory before running the scripts.  
-- The CSV contains sales transactions with columns like `Order Date`, `Sales`, `Category`, `Sub-Category`, `Region`, `Customer Segment`, etc.
-
 ---
 
 ## ⚙️ Tools & Technologies Used
