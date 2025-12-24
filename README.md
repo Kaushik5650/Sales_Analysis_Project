@@ -81,5 +81,3 @@ The dataset used is a sales transaction dataset (`train.csv.zip`) containing:
 
 ---
 
-## Project Folder Structure
-
